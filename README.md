@@ -1,4 +1,5 @@
-# Buffet Sauce: The World's Only Graph Powered Bracket Builder
+# Buffet Sauce: 
+#### The World's Only Graph Powered Bracket Builder
 
 March Madness Recommendation Engine 2016
 
